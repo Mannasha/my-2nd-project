@@ -1,0 +1,23 @@
+/* <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet"> */
+
+/* nav-open */
+.nav-container {
+  border: 2px solid red;
+  display: flex;
+  align-items: center;
+  display: 100%;
+
+}
+.nav-container img{
+    width: 60px;
+    margin-right: 17Px;
+}
+.nav-container p{
+    font-size: 36px;
+}
+.header-section{
+    display: flex;
+}
+/* nav-close */
